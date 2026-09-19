@@ -3,6 +3,8 @@
 #include "freertos/task.h"
 #include "esp_log.h"
 
+/* https://www.lcdwiki.com/4.0inch_SPI_Module_ST7796 */
+
 static const char *TAG = "MAIN";
 
 void app_main(void)
